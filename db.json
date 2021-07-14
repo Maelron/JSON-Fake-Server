@@ -1,11 +1,12 @@
 {
-  "posts": [
+  "users": [
     {
-      "id": 1,
-      "title": "hello 2021."
+      "name": "Alex",
+      "age": 23
+    },
+    {
+      "name": "Bob",
+      "age" : 43
     }
-  ],
-  "profile": {
-    "name": "typicode 2021"
-  }
+  ]
 }
